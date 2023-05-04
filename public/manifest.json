@@ -1,0 +1,17 @@
+{
+  "name": "MyProgressiveWebApp",
+  "short_name": "MyPWA",
+  "start_url": "",
+  "display": "standalone",
+  "background_color": "#F8F7DA",
+  "theme_color": "#8C383A",
+  "description": "PWA with Vite.js, React.js and TypeScript",
+  "icons": [
+    {
+      "src": "icons/emoji-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
